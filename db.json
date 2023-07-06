@@ -1,0 +1,16 @@
+{
+  "agrupamento": [
+    {
+      "Agrupamento":"153515",
+      "Pedido":"4413616029",
+      "Cnpj":"09312322000140",
+      "QuantidadeContratos":"54",
+      "ValorComissaoERP":"3.3445,53",
+      "ValorComissaoSPOC":"3.3445,53",
+      "ValorSomaContratosSPOC":"3.3445,53",
+      "IR":"0",
+      "StatusPedido":"Nota Fiscal enviada pelo cliente",
+      "StatusDaApuracao":"SUCESSO"
+    }
+  ]
+}
